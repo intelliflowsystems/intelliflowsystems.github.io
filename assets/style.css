@@ -13,6 +13,9 @@
 	font-size:25px;font-weight:700;letter-spacing:0.1em;
     font-family: 'Kaushan Script','Helvetica Neue',Helvetica,Arial,cursive;
 }
+.navbar{
+	z-index: 1000 !important;
+}
 .navbar-brand {
 	color: black;
 	font-size:25px;
@@ -53,7 +56,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 
 	text-align: center;
     color: black;
-   height: 100vh;
+   height: 70vh;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -361,4 +364,21 @@ color: #999;
 .doc-prof{
 	background-color: 
 	white; margin: 7px;
+}
+
+.success-dialog{
+	z-index: 1100!important;
+  }
+  
+  .mat-tab-label-content{
+	color: black !important;
+	
+}
+.mat-tab-body-content{
+	overflow:hidden !important;
+}
+
+.mat-tab-label-active{
+	background-color: rgba(213, 113, 190, 0.2) !important;
+	border-radius: 10px;
 }

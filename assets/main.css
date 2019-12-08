@@ -452,3 +452,7 @@ iframe {
     padding-right: 15px;
   }
 }
+
+.success-dialog{
+  z-index: 1100;
+}
