@@ -52,7 +52,8 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 .banner{
 	/*background-image:url('http://www.hd-freewallpapers.com/latest-wallpapers/abstract-website-backgrounds.jpg');*/
 	    /*background-color: rgb(243, 243, 244);*/
-	    background-color: rgb(227, 227, 246);
+	    /* background-color: rgb(227, 227, 246); */
+	    background-color: rgb(200, 200, 243);
 
 	text-align: center;
     color: black;
@@ -345,7 +346,7 @@ section .section-title {
 }
 
 .center-colomn{
-	margin: auto;
+	/* margin: auto; */
 }
 .center-colomn-border{
 	border-right: 1px solid grey;
