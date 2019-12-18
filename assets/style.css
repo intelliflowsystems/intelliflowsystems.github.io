@@ -64,8 +64,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-	background-size: cover;
-	min-height: 470px;
+    background-size: cover;
 }
 .banner-text{
 	padding:300px 0 150px 0;
